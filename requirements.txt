@@ -1,6 +1,6 @@
 streamlit
 pandas
 folium
-st_folium
+streamlit_folium
 plotly.graph_objects
 plotly.express
