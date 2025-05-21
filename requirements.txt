@@ -1,5 +1,6 @@
 streamlit
 pandas
 folium
-plotly.graph_objects
-plotly.express
+streamlit-folium
+plotly
+
